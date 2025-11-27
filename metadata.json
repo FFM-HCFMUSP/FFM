@@ -1,0 +1,5 @@
+{
+  "name": "FFM - Portal de Admissão",
+  "description": "Aplicação web para gestão de documentos de candidatos aprovados nos processos seletivos da Fundação Faculdade de Medicina (FFM).",
+  "requestFramePermissions": []
+}
